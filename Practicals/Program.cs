@@ -37,7 +37,7 @@ namespace Practicals
             //T1_22.DiamondPatternMain();
 
             //Tutorial 2:
-            //T2_01.T2_1Main();
+            T2_01.DecisionMaking();
             //T2_03.T2_3Main();
             //T2_04.T2_4Main();
             //T2_05.T2_5Main();
