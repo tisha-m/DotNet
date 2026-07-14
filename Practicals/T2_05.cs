@@ -5,7 +5,7 @@ namespace Practicals
 {
     internal class T2_05
     {
-        public static void T2_5Main()
+        public static void SumOfElements()
         {
             int[] arr = new int[5];
             int sum = 0;

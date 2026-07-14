@@ -4,7 +4,7 @@ namespace Practicals
 {
     internal class T2_03
     {
-        public static void T2_3Main()
+        public static void FirstName()
         {
             char firstName = 'M';
             char lastName = 'D';

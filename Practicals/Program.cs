@@ -37,10 +37,10 @@ namespace Practicals
             //T1_22.DiamondPatternMain();
 
             //Tutorial 2:
-            T2_01.DecisionMaking();
-            //T2_03.T2_3Main();
-            //T2_04.T2_4Main();
-            //T2_05.T2_5Main();
+            //T2_01.DecisionMaking();
+            //T2_03.FirstName();
+            //T2_04.Operators();
+            //T2_05.SumOfElements();
         }
     }
 }

@@ -4,7 +4,7 @@ namespace Practicals
 {
     internal class T2_04
     {
-        public static void T2_4Main()
+        public static void Operators()
         {
             int a, b;
             Console.Write("Enter a: ");
