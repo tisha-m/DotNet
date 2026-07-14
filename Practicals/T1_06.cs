@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class SumOf3
+    internal class T1_06
     {
         public static void SumOf3Main()
         {

@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class OddEven
+    internal class T1_03
     {
         public static void OddEvenMain()
         {

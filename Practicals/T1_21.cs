@@ -3,7 +3,7 @@
 namespace Practicals
 {
 
-    internal class SumSeries
+    internal class T1_21
     {
         public static void SumSeriesMain()
         {

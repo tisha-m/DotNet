@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class PrintAsInput
+    internal class T1_12
     {
         public static void PrintAsInputMain()
         {

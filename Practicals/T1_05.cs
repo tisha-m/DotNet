@@ -2,7 +2,7 @@
 
 namespace Practicals {
 
-    internal class  Factorial
+    internal class  T1_05
     {
         public static void FactMain()
         {

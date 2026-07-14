@@ -3,7 +3,7 @@
 namespace Practicals
 
 {
-    internal class T2_5
+    internal class T2_05
     {
         public static void T2_5Main()
         {

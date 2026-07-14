@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class DiamondPattern
+    internal class T1_22
     {
         public static void DiamondPatternMain()
         {

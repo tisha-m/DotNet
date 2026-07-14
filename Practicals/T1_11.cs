@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class NameGender
+    internal class T1_11
     {
         public static void NameGenderMain()
         {

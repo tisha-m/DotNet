@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class HelloWorld
+    internal class T1_01
     {
         public static void HelloWorldMain()
         {

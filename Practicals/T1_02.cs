@@ -3,7 +3,7 @@
 namespace Practicals 
 {
     
-    internal class Profile 
+    internal class T1_02 
     { 
         public static void ProfileMain()
         {

@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class ToUpperCase
+    internal class T1_08
     {
         public static void ToUpperCaseMain()
         {

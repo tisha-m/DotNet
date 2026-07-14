@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class T2_1
+    internal class T2_01
     {
         public static void T2_1Main()
         {

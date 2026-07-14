@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class NumToText
+    internal class T1_14
     {
         public static void NumToTextMain()
         {

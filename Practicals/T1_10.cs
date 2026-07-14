@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class MobileNum
+    internal class T1_10
     {
         public static void ToMobileNumMain()
         {

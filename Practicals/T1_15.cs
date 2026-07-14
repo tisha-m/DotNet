@@ -2,7 +2,7 @@
 
 namespace Practicals
 {
-    internal class Armstrong
+    internal class T1_15
     {
         public static void ArmstrongMain()
         {
