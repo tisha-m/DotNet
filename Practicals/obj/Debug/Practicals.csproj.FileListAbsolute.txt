@@ -1,0 +1,7 @@
+D:\Sem 5\.Net\Practicals\bin\Debug\Practicals.exe.config
+D:\Sem 5\.Net\Practicals\bin\Debug\Practicals.exe
+D:\Sem 5\.Net\Practicals\bin\Debug\Practicals.pdb
+D:\Sem 5\.Net\Practicals\obj\Debug\Practicals.csproj.AssemblyReference.cache
+D:\Sem 5\.Net\Practicals\obj\Debug\Practicals.csproj.CoreCompileInputs.cache
+D:\Sem 5\.Net\Practicals\obj\Debug\Practicals.exe
+D:\Sem 5\.Net\Practicals\obj\Debug\Practicals.pdb
