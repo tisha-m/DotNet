@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\Sem 5\\.Net\\Example\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|d:\\sem 5\\.net\\example\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|d:\\sem 5\\.net\\example\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|d:\\sem 5\\.net\\example\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|d:\\sem 5\\.net\\example\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|D:\\Sem 5\\.Net\\Example\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|d:\\sem 5\\.net\\example\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|d:\\sem 5\\.net\\example\\webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|D:\\Sem 5\\.Net\\Example\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +42,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm4.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\WebForm4.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm4.aspx.cs",
+              "ToolTip": "D:\\Sem 5\\.Net\\Example\\WebForm4.aspx.cs",
+              "RelativeToolTip": "WebForm4.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T08:06:51.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WebForm4.aspx",
+              "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\WebForm4.aspx",
+              "RelativeDocumentMoniker": "WebForm4.aspx",
+              "ToolTip": "D:\\Sem 5\\.Net\\Example\\WebForm4.aspx",
+              "RelativeToolTip": "WebForm4.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-15T07:33:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "XMLFile1.xml",
+              "ToolTip": "D:\\Sem 5\\.Net\\Example\\XMLFile1.xml",
+              "RelativeToolTip": "XMLFile1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-07-15T07:20:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Register.aspx",
               "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\Register.aspx",
               "RelativeDocumentMoniker": "Register.aspx",
@@ -43,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.aspx",
               "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\Login.aspx",
               "RelativeDocumentMoniker": "Login.aspx",
@@ -56,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Site1.Master",
               "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\Site1.Master",
               "RelativeDocumentMoniker": "Site1.Master",

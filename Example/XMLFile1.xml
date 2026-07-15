@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~\images\Something.jpeg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/</NavigateUrl>
+		<AlternateText> Raat no kaik ek photo	</AlternateText>
+		<Impression> </Impression>
+		<Keywords> </Keywords>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\images\newYork.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/</NavigateUrl>
+		<AlternateText> new york nathi avtuuuuu yaaarrrrr	</AlternateText>
+		<Impression> </Impression>
+		<Keywords> </Keywords>
+	</Ad>
+</Advertisements>

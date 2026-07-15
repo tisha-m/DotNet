@@ -12,7 +12,7 @@ namespace Practicals
         static void Main(string[] args)
         {
             //Tutorial 1:
-            Console.WriteLine("Mandaviya Tisha Jayesh - 25SOECE13066");
+            Console.WriteLine("Mandaviya Tisha Jayesh - 25SOECE13066\n");
             //T1_01.HelloWorldMain();
             //T1_02.ProfileMain();
             //T1_03.OddEvenMain();
