@@ -13,18 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|D:\\Sem 5\\.Net\\Example\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|D:\\Sem 5\\.Net\\Example\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|D:\\Sem 5\\.Net\\Example\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|D:\\Sem 5\\.Net\\Example\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,7 +49,7 @@
               "RelativeDocumentMoniker": "WebForm4.aspx",
               "ToolTip": "D:\\Sem 5\\.Net\\Example\\WebForm4.aspx",
               "RelativeToolTip": "WebForm4.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-07-15T07:33:45.852Z",
               "EditorCaption": ""
@@ -77,45 +65,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2026-07-15T07:20:01.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.aspx",
-              "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\Register.aspx",
-              "RelativeDocumentMoniker": "Register.aspx",
-              "ToolTip": "D:\\Sem 5\\.Net\\Example\\Register.aspx",
-              "RelativeToolTip": "Register.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-07-13T02:45:47.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\Login.aspx",
-              "RelativeDocumentMoniker": "Login.aspx",
-              "ToolTip": "D:\\Sem 5\\.Net\\Example\\Login.aspx",
-              "RelativeToolTip": "Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-07-13T04:03:07.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Site1.Master",
-              "DocumentMoniker": "D:\\Sem 5\\.Net\\Example\\Site1.Master",
-              "RelativeDocumentMoniker": "Site1.Master",
-              "ToolTip": "D:\\Sem 5\\.Net\\Example\\Site1.Master",
-              "RelativeToolTip": "Site1.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-07-13T02:41:24.696Z",
               "EditorCaption": ""
             }
           ]
