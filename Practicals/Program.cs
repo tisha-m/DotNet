@@ -12,7 +12,7 @@ namespace Practicals
         static void Main(string[] args)
         {
             //Tutorial 1:
-            //Console.WriteLine("Mandaviya Tisha Jayesh - 25SOECE13066\n");
+            Console.WriteLine("Mandaviya Tisha Jayesh - 25SOECE13066\n");
             //T1_01.HelloWorldMain();
             //T1_02.ProfileMain();
             //T1_03.OddEvenMain();
@@ -41,8 +41,20 @@ namespace Practicals
             //T2_03.FirstName();
             //T2_04.Operators();
             //T2_05.SumOfElements();
+            //T2_09.T2_09Main();
+            //T2_10.T2_10Main();
             //T2_11.SumOfArray();
-            T2_12.SearchOfElements();
+            //T2_12.SearchOfElements();
+            //T2_13.T2_13Main();
+            //T2_14.T2_14Main();
+            //T2_15.T2_15Main();
+
+            //Tutorial 3:
+            T3_01.T3_01Main();
+            
+            //Basics
+            //Basics.BasicsMain();
+
         }
     }
 }

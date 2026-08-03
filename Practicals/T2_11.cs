@@ -6,6 +6,7 @@ namespace Practicals
     {
         public static void SumOfArray()
         {
+            Console.WriteLine("Mandaviya Tisha Jayesh - 25SOECE13066\n");
             int n, sum = 0;
             Console.Write("Enter number of elements: ");
             n = Convert.ToInt32(Console.ReadLine());

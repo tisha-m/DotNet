@@ -8,6 +8,7 @@
 //        {
 //            public int getValues(out int x, out int y, out int z)
 //            {
+//                Console.WriteLine("Mandaviya Tisha Jayesh - 25SOECE13066\n");
 //                Console.Write("Enter the first value: ");
 //                x = Convert.ToInt32(Console.ReadLine());
 
