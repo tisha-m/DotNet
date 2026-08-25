@@ -93,6 +93,17 @@
     <Compile Include="T3_08.cs" />
     <Compile Include="T3_09.cs" />
     <Compile Include="T3_10.cs" />
+    <Compile Include="T3_11.cs" />
+    <Compile Include="T3_12.cs" />
+    <Compile Include="T3_13.cs" />
+    <Compile Include="T3_14.cs" />
+    <Compile Include="T3_15.cs" />
+    <Compile Include="T3_16.cs" />
+    <Compile Include="T3_17.cs" />
+    <Compile Include="T3_18.cs" />
+    <Compile Include="T3_19.cs" />
+    <Compile Include="T3_20.cs" />
+    <Compile Include="T3_21.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
