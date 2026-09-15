@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|d:\\sem 5\\.net\\example\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|D:\\Sem 5\\.Net\\Example\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9A94321C-04EA-480F-8D77-F3D2EEB81BE8}|Example.csproj|solutionrelative:webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -55,8 +55,7 @@
               "RelativeToolTip": "WebForm4.aspx.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwBwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T03:03:57.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-20T03:03:57.121Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "WebForm4.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-07-15T07:33:45.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T07:33:45.852Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "XMLFile1.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-07-15T07:20:01.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T07:20:01.772Z"
             }
           ]
         }
