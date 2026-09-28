@@ -77,7 +77,7 @@ namespace Practicals
             //T3_26.T3_26Main();
 
             //Tutorial 4:
-            //T4_01.T4_01Main();
+            T4_01.T4_01Main();
             //T4_02.T4_02Main();
             //T4_03.T4_03Main();
             //T4_04.T4_04Main();
@@ -86,7 +86,7 @@ namespace Practicals
             //T4_07.T4_07Main();
             //T4_08.T4_08Main();
             //T4_09.T4_09Main();
-            T4_10.T4_10Main();
+            //T4_10.T4_10Main();
 
             //Basics
             //Basics.BasicsMain();

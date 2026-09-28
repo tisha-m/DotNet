@@ -105,6 +105,7 @@
     <Content Include="Web.config" />
     <Content Include="Register.aspx" />
     <Content Include="StudentRecord.aspx" />
+    <Content Include="Login.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -133,6 +134,13 @@
     </Compile>
     <Compile Include="StudentRecord.aspx.designer.cs">
       <DependentUpon>StudentRecord.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
