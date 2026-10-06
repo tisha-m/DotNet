@@ -125,6 +125,10 @@
     <Compile Include="T5_04.cs" />
     <Compile Include="T5_05.cs" />
     <Compile Include="T5_06.cs" />
+    <Compile Include="T5_07.cs" />
+    <Compile Include="T5_08.cs" />
+    <Compile Include="T5_09.cs" />
+    <Compile Include="T5_10.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
