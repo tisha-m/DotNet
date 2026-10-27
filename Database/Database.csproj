@@ -102,6 +102,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="NewApplication.aspx" />
+    <Content Include="RemoveApplication.aspx" />
+    <Content Include="UpdateApplication.aspx" />
     <Content Include="Web.config" />
     <Content Include="Register.aspx" />
     <Content Include="StudentRecord.aspx" />
@@ -113,7 +116,21 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="NewApplication.aspx.cs">
+      <DependentUpon>NewApplication.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NewApplication.aspx.designer.cs">
+      <DependentUpon>NewApplication.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveApplication.aspx.cs">
+      <DependentUpon>RemoveApplication.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RemoveApplication.aspx.designer.cs">
+      <DependentUpon>RemoveApplication.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -141,6 +158,13 @@
     </Compile>
     <Compile Include="Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateApplication.aspx.cs">
+      <DependentUpon>UpdateApplication.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpdateApplication.aspx.designer.cs">
+      <DependentUpon>UpdateApplication.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

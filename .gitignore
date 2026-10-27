@@ -1,1 +1,26 @@
-.vs/ 
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Example
+/Database/.vs/Database.slnx/config
+/Database/.vs/Database.slnx/FileContentIndex
+/Database/.vs/Database.slnx/v18
+/Database/.vs
+/Practicals/.vs/Practicals.slnx/FileContentIndex
+/Example/.vs/Example.slnx/v18/DocumentLayout.backup.json
+/Example/.vs/Example.slnx/v18/.suo
+/Practicals/.vs/Practicals.slnx/v18/DocumentLayout.json
+/Database/Login.aspx
+/Practicals/.vs/Practicals.slnx/v18/.suo
+/Database/obj/Debug/Database.csproj.AssemblyReference.cache
+/Database/obj/Debug/Database.csproj.CoreCompileInputs.cache
+/Database/obj/Debug/Database.dll
+/Database/obj/Debug/Database.pdb
+/Database/Login.aspx.designer.cs
+/Database/Site1.Master
+/Database/Site1.Master.designer.cs
+/Database/bin/Database.pdb
+/Database/bin/Database.dll
+/Database/Site1.Master.designer.cs
+/.gitignore
