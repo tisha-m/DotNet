@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Basics.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="T6_02.cs" />
     <Compile Include="T1_15.cs" />
     <Compile Include="T1_16.cs" />
     <Compile Include="T1_17.cs" />
@@ -129,6 +130,17 @@
     <Compile Include="T5_08.cs" />
     <Compile Include="T5_09.cs" />
     <Compile Include="T5_10.cs" />
+    <Compile Include="T6_01.cs" />
+    <Compile Include="T6_03.cs" />
+    <Compile Include="T6_04.cs" />
+    <Compile Include="T6_05.cs" />
+    <Compile Include="T6_06.cs" />
+    <Compile Include="T6_07.cs" />
+    <Compile Include="T6_08.cs" />
+    <Compile Include="T6_09.cs" />
+    <Compile Include="T6_10.cs" />
+    <Compile Include="T6_11.cs" />
+    <Compile Include="T6_12.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
